@@ -1,5 +1,9 @@
 # 💫 About Me:
-📚 I'm currently a Full Stack Developer at BPCE-IT,<br>💻 I like learning diverse things in IT,<br>⚛️ My preferred language is JavaScript with ReactJS library,<br>🅰️ I'm currently learning Angular.
+📚 I'm currently a Full Stack Developer at BPCE-IT,<br>💻 I like learning diverse things in IT,<br>⚛️ My preferred language is JavaScript with ReactJS library,<br>🅰️ I'm currently learning Angular<br>
+
+----------------------------------------------------------------------------------------------------------
+
+📚 Je suis actuellement développeur Full Stack chez BPCE-IT,<br>💻 J’aime apprendre diverses choses en TI,<br>⚛️ Ma langue préférée est JavaScript avec la bibliothèque ReactJS,<br>🅰 J’apprends actuellement Angular.
 
 
 # 💻 Tech Stack:
