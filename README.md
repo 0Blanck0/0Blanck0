@@ -1,6 +1,3 @@
-# { GitHub en cour de reconstruction }
-
-
 # 💫 About Me:
 📚 I'm currently a Full Stack Developer at BPCE-IT,<br>💻 I like learning diverse things in IT,<br>⚛️ My preferred language is JavaScript with ReactJS library,<br>🅰️ I'm currently learning Cybersecurity with [TryHackMe](https://tryhackme.com/)<br>
 
